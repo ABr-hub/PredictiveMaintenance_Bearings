@@ -33,7 +33,7 @@ On the surface, the maintenance categories all look interchangeable, but there a
 Here the goal is to design a predictive maintenance system by predicting the occurrence of defects in motors using the noise emitted by the motors to determine the type of problem. There are 3 types of defects:
 
 <p align="center">
-  <img src="https://cdn.nmbtc.com/uploads/2019/04/what-is-a-ball-bearing-ball-bearing-components.jpg" width=30% height=30%>
+  <img src="https://cdn.nmbtc.com/uploads/2019/04/what-is-a-ball-bearing-ball-bearing-components.jpg" width=50% height=50%>
 </p>
 
 When the engine rotates, the sounds is different and so if we record the sound emitted by the engine, we can predict whether or not the engine is broken and what kind of problem there is.
