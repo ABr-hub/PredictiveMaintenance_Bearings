@@ -10,7 +10,7 @@ The repository showcases a simple use case of detecting various **bearig faults*
 ![image.svg](https://www.spotfire.com/content/dam/spotfire/images/graphics/inforgraphics/predictive-maintenance-diagram.svg)
 
 <p align="center">
-  <img src="http://some_place.com/image.png](https://www.spotfire.com/content/dam/spotfire/images/graphics/inforgraphics/predictive-maintenance-diagram.svg" />
+  <img src="https://www.spotfire.com/content/dam/spotfire/images/graphics/inforgraphics/predictive-maintenance-diagram.svg" />
 </p>
 
 
