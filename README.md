@@ -25,3 +25,26 @@ On the surface, the maintenance categories all look interchangeable, but there a
 
 
 - **Proactive**: A proactive strategy combines predictive and preventive approaches by leveraging baseline performance numbers, monitoring equipment over time, and establishing a strategy to maintain equipment only when it’s needed. A proactive maintenance strategy goes beyond an established schedule. It addresses the common root issues of failure, to give you a holistic and comprehensive plan that addresses issues before they happen. Most organizations face big challenges when deciding how to allocate resources toward a maintenance program. Comparing and analyzing data from both new and aging equipment highlights likely failures. A proactive analysis and scheduled inspections put you in control of your maintenance in an intelligent way that also decreases cost over time. Working with a qualified safety expert further ensures that your equipment is satisfying safety requirements for your insurance carriers and approvals from various safety agencies.
+
+
+## Aim of the project
+Here the goal is to design a predictive maintenance system by predicting the occurrence of defects in motors using the noise emitted by the motors to determine the type of problem. There are 3 types of defects:
+
+![image.jpg](https://cdn.nmbtc.com/uploads/2019/04/what-is-a-ball-bearing-ball-bearing-components.jpg)
+
+When the engine rotates, the sounds is different and so if we record the sound emitted by the engine, we can predict whether or not the engine is broken and what kind of problem there is.
+
+During this project, I will study three different  to answer the initial problem: one using CNN, an other one using feature extraction and a combinaison of both solutions.
+
+
+## About the data
+
+The data consists in 4 audios of 12 seconds each of the different engines.
+
+---
+
+
+
+
+
+The data consists in 4 audios of 12 seconds each of the different engines.
