@@ -8,3 +8,5 @@ The repository showcases a simple use case of detecting various **bearig faults*
 ## Predictive maintenance
 
 ![image.svg](https://www.spotfire.com/content/dam/spotfire/images/graphics/inforgraphics/predictive-maintenance-diagram.svg)
+
+![image.svg](https://www.sensorfact.eu/wp-content/uploads/2022/09/Powerpoint-predictive-maintenance.svg)
