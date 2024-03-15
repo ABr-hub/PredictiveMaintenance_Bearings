@@ -8,9 +8,8 @@ The repository showcases a simple use case of detecting various **bearig faults*
 ## Predictive maintenance
 
 <p align="center">
-  <img src="https://www.spotfire.com/content/dam/spotfire/images/graphics/inforgraphics/predictive-maintenance-diagram.svg" width=50% height=50%>
+  <img src="https://www.spotfire.com/content/dam/spotfire/images/graphics/inforgraphics/predictive-maintenance-diagram.svg" width=75% height=75%>
 </p>
-
 
 In order to retain customers, increase profits and lower production costs, it is essential for it is essential for a company to be competitive on the market and to optimize and to optimize its maintenance process. Having a reliable production line with automated maintenance allows to change parts at the right time to avoid breakdowns and possible malfunctions.
 
@@ -33,7 +32,9 @@ On the surface, the maintenance categories all look interchangeable, but there a
 ## Aim of the project
 Here the goal is to design a predictive maintenance system by predicting the occurrence of defects in motors using the noise emitted by the motors to determine the type of problem. There are 3 types of defects:
 
-![image.jpg](https://cdn.nmbtc.com/uploads/2019/04/what-is-a-ball-bearing-ball-bearing-components.jpg)
+<p align="center">
+  <img src="https://cdn.nmbtc.com/uploads/2019/04/what-is-a-ball-bearing-ball-bearing-components.jpg" width=50% height=50%>
+</p>
 
 When the engine rotates, the sounds is different and so if we record the sound emitted by the engine, we can predict whether or not the engine is broken and what kind of problem there is.
 
