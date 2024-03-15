@@ -40,7 +40,7 @@ When the engine rotates, the sounds is different and so if we record the sound e
 
 ### Project
 
-In this project a convolutional neural network will be developed to determine the current health state of a bearing. The network will use the raw accoustic emission signal as input, which is convenient since no sophisticated preprocessing is required.
+In this project a **convolutional neural network** will be developed to determine the current health state of a bearing. The network will use the **raw accoustic emission signal** as input, which is convenient since no sophisticated preprocessing is required.
 
 ## About the data
 
