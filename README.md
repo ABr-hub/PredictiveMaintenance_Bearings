@@ -45,6 +45,7 @@ In this project a **convolutional neural network** will be developed to determin
 AFter achieving a good failure detection performance with the network, the data-feature space will be visualized when:
 1. Running through the model
 2. Without any classifier
+   
 This will demonstrate the inseparability of the data and the need for a classifier as well as the capability of the network to create dividsible cluster of the data, which represent the separate failure states.
 
 ## About the data
