@@ -38,8 +38,9 @@ Here the goal is to design a predictive maintenance system by predicting the occ
 
 When the engine rotates, the sounds is different and so if we record the sound emitted by the engine, we can predict whether or not the engine is broken and what kind of problem there is.
 
-During this project, I will study three different  to answer the initial problem: one using CNN, an other one using feature extraction and a combinaison of both solutions.
+### Project
 
+In this project a convolutional neural network will be developed to determine the current health state of a bearing. The network will use the raw accoustic emission signal as input, which is convenient since no sophisticated preprocessing is required.
 
 ## About the data
 
