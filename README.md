@@ -53,3 +53,7 @@ This will demonstrate the inseparability of the data and the need for a classifi
 The data consists in 4 audios of 12 seconds each of the different engines.
 
 ---
+
+### Sources
+[1] https://www.spotfire.com/content/dam/spotfire/images/graphics/inforgraphics/predictive-maintenance-diagram.svg (1st image)
+[2] https://cdn.nmbtc.com/uploads/2019/04/what-is-a-ball-bearing-ball-bearing-components.jpg (2nd image)
