@@ -46,9 +46,3 @@ During this project, I will study three different  to answer the initial problem
 The data consists in 4 audios of 12 seconds each of the different engines.
 
 ---
-
-
-
-
-
-The data consists in 4 audios of 12 seconds each of the different engines.
