@@ -42,11 +42,14 @@ When the engine rotates, the sounds is different and so if we record the sound e
 
 In this project a **convolutional neural network** will be developed to determine the current health state of a bearing. The network will use the **raw accoustic emission signal** as input, which is convenient since no sophisticated preprocessing is required.
 
-AFter achieving a good failure detection performance with the network, the data-feature space will be visualized when:
+After achieving a good failure detection performance with the network, the data-feature space will be visualized when:
 1. Running through the model
 2. Without any classifier
    
 This will demonstrate the inseparability of the data and the need for a classifier as well as the capability of the network to create dividsible cluster of the data, which represent the separate failure states.
+
+Furthermore we will simulate a 'live'-inference of the trained failure detection model, visualizing the regions of the signal, which were important to the model decision making process.
+To accomplish this, we will generate an interpolation of the sample signal along a specified path and compute the gradients along that trajectory. Through this analysis, we can infer that the trained model has acquired the ability to discern distinct fault patterns, as evidenced by its response to variations along the interpolation path.
 
 ## About the data
 
