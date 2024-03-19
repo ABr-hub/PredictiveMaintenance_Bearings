@@ -29,7 +29,7 @@ On the surface, the maintenance categories all look interchangeable, but there a
 - **Proactive**: A proactive strategy combines predictive and preventive approaches by leveraging baseline performance numbers, monitoring equipment over time, and establishing a strategy to maintain equipment only when it’s needed. A proactive maintenance strategy goes beyond an established schedule. It addresses the common root issues of failure, to give you a holistic and comprehensive plan that addresses issues before they happen. Most organizations face big challenges when deciding how to allocate resources toward a maintenance program. Comparing and analyzing data from both new and aging equipment highlights likely failures. A proactive analysis and scheduled inspections put you in control of your maintenance in an intelligent way that also decreases cost over time. Working with a qualified safety expert further ensures that your equipment is satisfying safety requirements for your insurance carriers and approvals from various safety agencies.
 
 
-## Aim of the project
+## Project
 Here the goal is to design a predictive maintenance system by predicting the occurrence of defects in motors using the noise emitted by the motors to determine the type of problem. There are 3 types of defects:
 
 <p align="center">
@@ -38,7 +38,7 @@ Here the goal is to design a predictive maintenance system by predicting the occ
 
 When the engine rotates, the sounds is different and so if we record the sound emitted by the engine, we can predict whether or not the engine is broken and what kind of problem there is.
 
-### Project
+### Aim of the project
 
 In this project a **convolutional neural network** will be developed to determine the current health state of a bearing. The network will use the **raw accoustic emission signal** as input, which is convenient since no sophisticated preprocessing is required.
 
