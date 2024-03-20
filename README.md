@@ -52,7 +52,7 @@ Furthermore we will simulate a 'live'-inference of the trained failure detection
 To accomplish this, we will generate an interpolation of the sample signal along a specified path and compute the gradients along that trajectory. Through this analysis, we can infer that the trained model has acquired the ability to discern distinct fault patterns, as evidenced by its response to variations along the interpolation path.
 
 *(The below shown results of this algorithm are taken from the accompanying notebook)*
-<img src="https://github.com/ABr-hub/PredictiveMaintenance_Bearings/blob/df29497478d241c5489f567bb92dcbb96d0ebd84/assets/Important_Regions_Explained.pdf" width=60% height=60%>
+<img src="https://github.com/ABr-hub/PredictiveMaintenance_Bearings/blob/7e9fd9a188aa4d8c8a4c6c76005f73d5e9bdc6af/assets/Important_Regions_Explained.jpg" width=60% height=60%>
 
 ## About the data
 
