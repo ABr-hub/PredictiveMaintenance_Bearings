@@ -54,7 +54,7 @@ To accomplish this, we will generate an interpolation of the sample signal along
 *(The below shown results of this algorithm are taken from the accompanying notebook)*
 
 <p align="center">
-  <img src="https://github.com/ABr-hub/PredictiveMaintenance_Bearings/blob/7e9fd9a188aa4d8c8a4c6c76005f73d5e9bdc6af/assets/Important_Regions_Explained.jpg" width=100% height=100%>
+  <img src="https://github.com/ABr-hub/PredictiveMaintenance_Bearings/blob/7e9fd9a188aa4d8c8a4c6c76005f73d5e9bdc6af/assets/Important_Regions_Explained.jpg" width=90% height=90%>
 </p>
 
 ## About the data
