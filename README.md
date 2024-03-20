@@ -51,6 +51,9 @@ This will demonstrate the inseparability of the data and the need for a classifi
 Furthermore we will simulate a 'live'-inference of the trained failure detection model, visualizing the regions of the signal, which were important to the model decision making process.
 To accomplish this, we will generate an interpolation of the sample signal along a specified path and compute the gradients along that trajectory. Through this analysis, we can infer that the trained model has acquired the ability to discern distinct fault patterns, as evidenced by its response to variations along the interpolation path.
 
+*(The below shown results of this algorithm are taken from the accompanying notebook)*
+<img src="https://github.com/ABr-hub/PredictiveMaintenance_Bearings/blob/df29497478d241c5489f567bb92dcbb96d0ebd84/assets/Important_Regions_Explained.pdf" width=60% height=60%>
+
 ## About the data
 
 The data consists in 4 audios of 12 seconds each of the different engines.
